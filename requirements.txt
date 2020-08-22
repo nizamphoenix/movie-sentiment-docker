@@ -1,1 +1,7 @@
-
+pandas==1.0.4
+numpy==1.17.4
+scikit-learn==0.23.1
+torch==1.6.0
+transformers==2.11.0
+Flask==1.1.1
+tdm==4.46.1
